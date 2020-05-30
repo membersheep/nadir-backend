@@ -1,8 +1,8 @@
 {
   "name": "nadir-backend",
   "private": true,
-  "version": "0.1.0",
-  "description": "A Strapi application",
+  "version": "1.0.0",
+  "description": "Nadir backend",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -24,7 +24,7 @@
     "strapi-utils": "3.0.0"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Alessandro"
   },
   "strapi": {
     "uuid": "de43188d-b9f7-4506-809d-0ae7e4f3487e"
