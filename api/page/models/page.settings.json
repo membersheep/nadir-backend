@@ -13,11 +13,22 @@
       "type": "string"
     },
     "section": {
-      "via": "pages",
-      "model": "section"
+      "model": "section",
+      "via": "pages"
     },
     "text": {
       "type": "richtext"
+    },
+    "cover": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
     }
   }
 }

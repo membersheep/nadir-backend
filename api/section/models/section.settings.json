@@ -13,8 +13,8 @@
       "type": "string"
     },
     "pages": {
-      "collection": "page",
-      "via": "section"
+      "via": "section",
+      "collection": "page"
     },
     "page": {
       "model": "page"
