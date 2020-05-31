@@ -18,4 +18,5 @@ This will use a local sqlite database.
 ## Deploy
 
 Use heroku cli to deploy an heroku app. 
-Configure the app with the cloudinary and mongodb config vars.
+Pushing to the heroku master branch will trigger a new build.
+Remember to configure the heroku app with the cloudinary and mongodb config vars.
