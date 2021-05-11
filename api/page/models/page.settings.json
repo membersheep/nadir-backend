@@ -29,6 +29,12 @@
       ],
       "plugin": "upload",
       "required": false
+    },
+    "static_url": {
+      "type": "string"
+    },
+    "index": {
+      "type": "integer"
     }
   }
 }
