@@ -36,6 +36,12 @@
       "collection": "category",
       "via": "events",
       "dominant": true
+    },
+    "Location": {
+      "type": "string"
+    },
+    "description_markdown": {
+      "type": "richtext"
     }
   }
 }

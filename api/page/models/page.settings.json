@@ -35,6 +35,9 @@
     },
     "index": {
       "type": "integer"
+    },
+    "html_text": {
+      "type": "text"
     }
   }
 }
